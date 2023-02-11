@@ -1,0 +1,4 @@
+chown -h 1000:1000 './README.md'
+chmod 0777 './README.md'
+/usr/bin/touch -hcmd "2023-02-11 18:39:57.2273597000 -0300" './README.md'
+/usr/bin/touch -hcad "2023-02-11 18:40:12.0609026000 -0300" './README.md'
