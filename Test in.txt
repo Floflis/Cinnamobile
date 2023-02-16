@@ -1,0 +1,3 @@
+x86 touchscreen monitor
+Pine64 tablet
+Pine64 phone

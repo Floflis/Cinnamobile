@@ -1,0 +1,3 @@
+This zombiespice applet will use withlink and borrow code from both Cinnamon's menu, CinnVIIStarkMenu and Cinnamenu.
+
+When triggered mobile mode, this applet will use the whole screen and look more like Cinnamenu (while in the Desktop it will look more like CinnVIIStarkMenu).

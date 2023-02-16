@@ -1,0 +1,3 @@
+The main idea of this extension is to prevent applets from behaving as in the desktop mode (the only mode vanilla Cinnamon knows, but we are changing this), so they will do nothing when clicked.
+
+Then, this same extension will identify user drag and communicate with the action-center applet, which will work as a drawer according to user dragging.

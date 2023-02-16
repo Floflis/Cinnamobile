@@ -1,0 +1,5 @@
+This applet will inherit most of the functions of existing Cinnamon's default applets.
+
+It will symlink from these applet's scripts, taking use of zombiespices and witchlink.
+
+action-center will detect mobile mode and also will communicate with the top-panel-wrapper extension, so according to user drag, the height of this applet will be expanding. Its width will comprehend the whole screen so as the top panel!
