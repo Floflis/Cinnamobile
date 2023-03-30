@@ -1,1 +1,2 @@
 ask ChatGPT to port https://github.com/ammen99/TouchGestures extension to Cinnamon
+inspire on the symbolic gesture* icons to know what Gnome offers for touchscreens
